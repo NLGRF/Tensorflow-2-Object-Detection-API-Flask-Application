@@ -13,7 +13,7 @@ DEFAULT_HOST = '0.0.0.0'
 model_path = "models/ssd_mobilenet_v1_fpn_shared_box_predictor_640x640_coco14_sync_2018_07_03/saved_model"
 labels_path = "data/mscoco_label_map.pbtxt"
 
-vis_threshold = 0.7
+vis_threshold = 0.5
 max_boxes = 1
 
 detection_model = load_model(model_path)
