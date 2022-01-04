@@ -16,7 +16,7 @@ The response consists of
 * image data with overlay. This can be decoded back to a numpy array and can be written to disk to visualize the result (provided in `client.py`)
 * image size
 
-![](https://github.com/NLGRF/Tensorflow-2-Object-Detection-API-Flask-Application/blob/master/outputs/girl_image_output.jpg)
+![](https://github.com/NLGRF/Tensorflow-2-Object-Detection-API-Flask-Application/blob/master/outputs/haru_output.jpg)
 
 ## Associated Article
 https://medium.com/@ms.neerajkrishna/deploy-tensorflow-object-detection-api-on-kubernetes-with-python-flask-and-docker-7a9513dd19e4
